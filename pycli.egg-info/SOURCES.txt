@@ -1,0 +1,8 @@
+README.md
+setup.py
+pycli.egg-info/PKG-INFO
+pycli.egg-info/SOURCES.txt
+pycli.egg-info/dependency_links.txt
+pycli.egg-info/entry_points.txt
+pycli.egg-info/requires.txt
+pycli.egg-info/top_level.txt
